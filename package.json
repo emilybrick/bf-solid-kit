@@ -1,0 +1,22 @@
+{
+  "name": "bf-solid-kit",
+  "version": "1.0.0",
+  "description": "BF solid kit",
+  "dependencies": {
+    "bf-solid": "latest"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "bundle exec jekyll serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilybrick/bf-solid-kit.git"
+  },
+  "author": "Emily Brick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emilybrick/bf-solid-kit/issues"
+  },
+  "homepage": "https://github.com/emilybrick/bf-solid-kit#readme"
+}
