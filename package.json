@@ -7,7 +7,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "bundle exec jekyll serve"
+    "start": "bundle exec jekyll serve --baseurl=''"
   },
   "repository": {
     "type": "git",
