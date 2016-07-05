@@ -6,14 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Flexbox In Solid
-email: your-email@domain.com
+title: Solid Starter Kit
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "/bf-solid-flexbox" # the subpath of your site, e.g. /blog
-url: "http://emilybrick.me" # the base hostname & protocol for your site
+baseurl: "/bf-solid-kit" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
