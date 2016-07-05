@@ -1,7 +1,7 @@
 {
-  "name": "bf-solid-kit",
+  "name": "bf-solid-flexbox",
   "version": "1.0.0",
-  "description": "BF solid kit",
+  "description": "BF solid flexbox",
   "dependencies": {
     "bf-solid": "latest"
   },
@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/emilybrick/bf-solid-kit.git"
+    "url": "git+https://github.com/emilybrick/bf-solid-flexbox.git"
   },
   "author": "Emily Brick",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/emilybrick/bf-solid-kit/issues"
+    "url": "https://github.com/emilybrick/bf-solid-flexbox/issues"
   },
-  "homepage": "https://github.com/emilybrick/bf-solid-kit#readme"
+  "homepage": "https://github.com/emilybrick/bf-solid-flexbox#readme"
 }
