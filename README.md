@@ -67,10 +67,11 @@ A repo designed for easy to set-up Buzzfeed demos, pre-baked with Solid and SCSS
     * You can put as many includes in your template files as you want, however each page can only have one layout.
     * The layout is determined at the top of each template, while the includes live in the template’s markup semantically. Reference* /demo-1/index.html* as an example. 
 
-
 ## Installing multiple BF-Solid-Kit repositories
-    * Your first repo can be forked directly from the original BF-solid-kit. You can organize your prototype projects in a couple different ways. If you choose to have multiple prototypes inside of one repo, make sure to organize your prototypes and their respective SCSS files by folder names that make sense.
-    * If you choose to have individual repositories for each prototype, you'll need to add an upstream remote to your originally forked repo. To do this, follow these instructions step by step: https://kroltech.com/2014/01/01/quick-tip-how-to-fork-your-own-repo-in-github/
+
+Your first repo can be forked directly from the original BF-solid-kit. You can organize your prototype projects in a couple different ways. If you choose to have multiple prototypes inside of one repo, make sure to organize your prototypes and their respective SCSS files by folder names that make sense.
+
+If you choose to have individual repositories for each prototype, you'll need to add an upstream remote to your originally forked repo. To do this, follow these instructions step by step: https://kroltech.com/2014/01/01/quick-tip-how-to-fork-your-own-repo-in-github/
 
 
 ## More Information
