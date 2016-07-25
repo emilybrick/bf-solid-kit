@@ -70,6 +70,7 @@ A repo designed for easy to set-up Buzzfeed demos, pre-baked with Solid and SCSS
 ## Installing multiple BF-Solid-Kit repositories
 
 Your first repo can be forked directly from the original BF-solid-kit. You can organize your prototype projects in a couple different ways. If you choose to have multiple prototypes inside of one repo, make sure to organize your prototypes and their respective SCSS files by folder names that make sense.
+https://www.dropbox.com/s/m9ujr1yba7uv3vz/Screenshot%202016-07-25%2016.51.53.png?dl=0
 
 If you choose to have individual repositories for each prototype, you'll need to add an upstream remote to your originally forked repo. To do this, follow these instructions step by step: https://kroltech.com/2014/01/01/quick-tip-how-to-fork-your-own-repo-in-github/
 
