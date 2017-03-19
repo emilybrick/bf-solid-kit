@@ -6,7 +6,7 @@ A repo designed for easy to set-up Buzzfeed demos, pre-baked with Solid and SCSS
 
 *Steps 1-6 are for local development, step 7 is for deploying to your GH pages domain*
 
-1. Copy (fork) this repo into your /sites folder (or wherever makes sense in your setup)
+1. Copy (fork) this repo into your /sites folder (or wherever makes sense in your setup) ~
 
 2. Cd into the repo in your terminal
 
