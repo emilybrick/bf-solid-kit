@@ -1,0 +1,39 @@
+
+
+.nav {
+  box-shadow: 0 1px 0 rgba(173,168,168,0.1), 0 2px 1px rgba(181,179,179,0.1);
+}
+
+.nav__content {
+  height: 100%;
+  max-width: 67rem;
+  min-height: 3.75rem; // so that the nav height doesn't change when the badges drop at the md breakpoint
+}
+
+.more-caret {
+  width: .5rem;
+  height: .5rem;
+}
+
+.nav__content--right {
+  margin-left: auto; // pushes the header's right-most content to be flush right
+}
+
+.badge {
+  width: 2.75rem;
+  height: 2.75rem;
+}
+
+.badge__svg {
+  height: 100%;
+  width: 100%;
+}
+
+.badge-animation {
+  &:hover {
+    // Bounce Animation, _badge-animation.scss
+    animation-duration: .6s;
+    animation-name: bounce;
+    transform-origin: center bottom;
+  }
+}

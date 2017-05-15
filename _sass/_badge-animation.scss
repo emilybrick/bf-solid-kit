@@ -1,0 +1,32 @@
+//
+// Badge SCSS
+//
+// --------------------------------------------------
+
+
+// Badge Bounce Animation being used in badge.scss
+@include keyframes(bounce) {
+
+  $bounce-timing-down: .215, .610, .355, 1;
+  $bounce-timing-up: .755, .050, .855, .060;
+
+  $bounce-y-top: -5px;
+  $bounce-y-bottom: -3px;
+
+  from,
+  10%,
+  65%,
+  to {
+    animation-timing-function: cubic-bezier($bounce-timing-down);
+    transform: translate3d(0, 0, 0);
+  }
+
+  40% {
+    animation-timing-function: cubic-bezier($bounce-timing-up);
+    transform: translate3d(0, $bounce-y-top, 0);
+  }
+
+  90% {
+    transform: translate3d(0, $bounce-y-bottom, 0);
+  }
+}
