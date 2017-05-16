@@ -37,3 +37,17 @@
     transform-origin: center bottom;
   }
 }
+
+.header-logo {
+  position: relative;
+}
+
+.header-logo--buzzfeed {
+  width: 7rem;
+  fill: $fill-red;
+  top: 1px;
+}
+
+.header-logo--buzzfeed-news {
+  width: 10rem;
+}
